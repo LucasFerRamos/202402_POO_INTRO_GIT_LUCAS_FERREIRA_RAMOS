@@ -1,6 +1,6 @@
 git init  
 git config --local user.name "Lucas"  
-git config --local user.email lucasferasp1@gmail.com  
+git config --local user.email lucas@gmail.com  
 git config --global core.editor "code --wait"  
 git config --global init.defaultBranch main  
 git branch -m main  
